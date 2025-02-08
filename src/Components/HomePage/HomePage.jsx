@@ -39,7 +39,14 @@ const HomePage = () => {
       )}
     </nav>
 
-    
+    <div className='bg-[#a8d2f6] p-4 justify-between flex-wrap'>
+      <div className='text-blue-700 text-2xl font-bold ' >How can i help</div>
+      <div>
+        <img src="images/slider-img.png" alt="image" />
+      </div>
+
+    </div>
+
     </>
   )
 }
